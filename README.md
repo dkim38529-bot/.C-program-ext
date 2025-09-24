@@ -1,1 +1,1 @@
-# .C extension progrma
+# .C extension program
